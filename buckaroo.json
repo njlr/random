@@ -1,0 +1,10 @@
+{
+  "name": "boost-random",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-throw-exception": "1.63.0",
+    "boost-assert": "1.63.0",
+    "boost-detail": "1.63.0",
+    "boost-system": "1.63.0"
+  }
+}
